@@ -266,21 +266,36 @@ Go,Java,Distributed System
 
 10
 
-Cathie Chen <cathiechen@igalia.com>
-https://twitter.com/cathiechen1
-chromium、webkit源码贡献者
-At work, I have been working on browser engines for more than 9 years, mainly in layout. I’m a a contributor to the Chromium project.
-
-
-
-
-
 xiemengjun@gmail.com 
+weibo.com/kaibao001
+
 astaxie
 Gopher
 
  	Shanghai, China  	
  	http://beego.me
+
+
+
+
+zimu_xia@126.com
+Lynn 紫沐．夏
+zimulala
+
+	PINGCAP
+	Beijing China 
+
+	http://zimulala.github.io/
+
+	TIDB Committer GOPHER
+
+
+
+
+Cathie Chen <cathiechen@igalia.com>
+https://twitter.com/cathiechen1
+chromium、webkit源码贡献者
+At work, I have been working on browser engines for more than 9 years, mainly in layout. I’m a a contributor to the Chromium project.
 
 
 
@@ -349,7 +364,7 @@ huachaohuang
 
 
 
-联系不上
+Stay Tuned
 
 	Victoria Raymond
 	VictoriaRaymond
@@ -357,19 +372,61 @@ huachaohuang
 
 
 
-Roger Wang (WenRui)
-rogerwang
-The creator of node-webkit and NW.js project
+	Roger Wang (WenRui)
+	rogerwang
+	The creator of node-webkit and NW.js project
 
-	mail:roger@nwjs.io
+		mail:roger@nwjs.io
 
-	NW.js is an app runtime based on Chromium and node.js. You can write native apps in HTML and JavaScript with NW.js. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all Web technologies.
+		NW.js is an app runtime based on Chromium and node.js. You can write native apps in HTML and JavaScript with NW.js. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all Web technologies.
 
-	It was created in the Intel Open Source Technology Center.
+		It was created in the Intel Open Source Technology Center.
 
 
 
-Baye
+deprecated
+
+	海外
+	Xiaoji Chen
+	github: Pessimistress
+	Designer. Geek. Beer addict. Data queen.| 设计师里的码农，码农里的文青，文青里的NERD
+
+		Seattle, WA
+		www.xiaoji-chen.com
+
+		Xiaoji Chen (陈晓霁) is a software engineer at Uber’s Visualization team. Prior to Uber, she was a designer for Microsoft’s Xbox One and Visual Studio, and published several works during her tenure at MIT’s Senseable City Lab. She studied architecture at Tsinghua University, and Design and Computation at MIT.
+
+		Her research interest include generative design, new paradigms of computer-human interaction and media technology’s impact on cities. Her projects look into:
+
+		Innovative ways to visually present large amount of data and to reveal patterns in transportation, communication, environment and health
+		Using data visualization to raise awareness on urban growth issues and influence population behavior
+		Building visualization tools that democratize open data access and promote informed decision making
+
+
+
+	Baohua Yang
+
+		Contact:yangbaohua#gmail
+
+		Diamond Building A
+		ZhongGuanCun Software Park
+		Haidian Dist, Beijing, China, 100093
+		Phone: (+86-010) 5874-8169
+
+			
+		Baohua Yang is currently the principal architect of Oracle's 
+
+
+		Blockchain product, leading the research and development of Blockchain service and product. Before that, he has been working on advanced technical topics of networking and distributed system (e.g., blockchain, cloud computing and data analytics) in IBM Research. His interests include Distributed System and Data Science, especially on emerging technologies such as Blockchain, BigData, Cloud and Machine Learning.
+
+		As an architect, he has been linked into the system and algorithm areas for 10+ years, with leading the design and implementation of enterprise solutions and solving key technical challenges.
+
+		As an Open-Source developer, he has contributed to numbers of projects (e.g., Hyperledger Fabric, OpenStack and OpenDaylight), and has lead several projects including Hyperledger Cello and Hyperledger Fabric-SDK-Py. He had been serving in Hyperledger project as a member of the Technical Steering Committee (TSC) and leading the Technical Working Group in China (TWGC) in past years.
+
+		He has published 20+ papers in top-quality international conference and journals (e.g., IEEE INFOCOM, IEEE Trans on Computers), with several technical books and patents. He is also serving as TPC member and reviewer of several academic conferences and journals.
+
+
+	Baye
 	waylybaye
 	full stack programer, creator of HyperApp
 	js node oc swift
@@ -461,45 +518,3 @@ SunriseFox —— 前端全栈方向
 	2018 A 公司前端（全栈）工程师，使用 Vue、Postgres 与 NodeJS，完成微信小程序及移动端单页 H5 应用完成开发、适配到上线的完整流程。
 
 
-
-
-
-
-
-deprecated
-
-	海外
-	Xiaoji Chen
-	github: Pessimistress
-	Designer. Geek. Beer addict. Data queen.| 设计师里的码农，码农里的文青，文青里的NERD
-
-		Seattle, WA
-		www.xiaoji-chen.com
-
-		Xiaoji Chen (陈晓霁) is a software engineer at Uber’s Visualization team. Prior to Uber, she was a designer for Microsoft’s Xbox One and Visual Studio, and published several works during her tenure at MIT’s Senseable City Lab. She studied architecture at Tsinghua University, and Design and Computation at MIT.
-
-		Her research interest include generative design, new paradigms of computer-human interaction and media technology’s impact on cities. Her projects look into:
-
-		Innovative ways to visually present large amount of data and to reveal patterns in transportation, communication, environment and health
-		Using data visualization to raise awareness on urban growth issues and influence population behavior
-		Building visualization tools that democratize open data access and promote informed decision making
-
-
-
-	Baohua Yang
-
-		Contact:yangbaohua#gmail
-
-		Diamond Building A
-		ZhongGuanCun Software Park
-		Haidian Dist, Beijing, China, 100093
-		Phone: (+86-010) 5874-8169
-
-			
-		Baohua Yang is currently the principal architect of Oracle's Blockchain product, leading the research and development of Blockchain service and product. Before that, he has been working on advanced technical topics of networking and distributed system (e.g., blockchain, cloud computing and data analytics) in IBM Research. His interests include Distributed System and Data Science, especially on emerging technologies such as Blockchain, BigData, Cloud and Machine Learning.
-
-		As an architect, he has been linked into the system and algorithm areas for 10+ years, with leading the design and implementation of enterprise solutions and solving key technical challenges.
-
-		As an Open-Source developer, he has contributed to numbers of projects (e.g., Hyperledger Fabric, OpenStack and OpenDaylight), and has lead several projects including Hyperledger Cello and Hyperledger Fabric-SDK-Py. He had been serving in Hyperledger project as a member of the Technical Steering Committee (TSC) and leading the Technical Working Group in China (TWGC) in past years.
-
-		He has published 20+ papers in top-quality international conference and journals (e.g., IEEE INFOCOM, IEEE Trans on Computers), with several technical books and patents. He is also serving as TPC member and reviewer of several academic conferences and journals.
