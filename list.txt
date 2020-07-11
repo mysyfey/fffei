@@ -95,7 +95,7 @@ A front-line programmer based in South China. I mostly write server-side code. A
 tobeg3oogle@gmail.com
 weibo.com/tobegit3hub
 
-tobe
+tobe迪豪 （Dihao Chen）
 tobegit3hub
 
 	广东深圳
@@ -107,7 +107,54 @@ tobegit3hub
 
 	GO JS C++ PYTHON
 
-	mail:
+	Architect
+	公司名称4Paradigm
+	入职日期2017 年 5 月 - 至今
+	任职时长3 年 3 个月
+	所在地点China
+	Focus on cloud computing, big data, artificial intelligent with machine learning and deep learning.
+
+	Xiaomi Technology
+	Deep Learning Engineer
+	公司名称Xiaomi Technology
+	入职日期2016 年 6 月 - 2017 年 5 月
+	任职时长1 年
+	所在地点Beijing City, China
+	Focus on Docker, Kubernetes, Machine Learning and Deep Learning.
+
+	优思得云计算科技（北京）有限公司
+	公司名称优思得云计算科技（北京）有限公司
+	在职时间1 年 2 个月
+	职位头衔Storage Team Leader
+	入职日期2015 年 8 月 - 2016 年 6 月
+	任职时长11 个月
+	所在地点Beijing
+	Develop OpenStack stroage projects like Glance, Cinder, Manila, Trove and the upcoming Sahara.
+
+	Manager of inner services with docker and provide container services with Magnum.
+	职位头衔Distributed Storage Engineer
+	入职日期2015 年 5 月 - 2016 年 6 月
+	任职时长1 年 2 个月
+	所在地点Beijing
+	Container, Storage, Infrastructure
+
+	小米科技
+	Infrastructure Engineer
+	公司名称小米科技
+	入职日期2013 年 8 月 - 2015 年 4 月
+	任职时长1 年 9 个月
+	所在地点Beijing
+	Develop and maintain HBase in infrastructure team.
+
+	Get involved in Hadoop/HBase/ZooKeeper community.
+
+	小米科技
+	Mobile Engineer
+	公司名称小米科技
+	入职日期2012 年 7 月 - 2012 年 9 月
+	任职时长3 个月
+	所在地点Beijing
+	Develop Android mobile app of Miliao and Miba.
 
 
 5
@@ -115,7 +162,6 @@ tobegit3hub
 微信: 漫谈云原生
 weibo: weibo.com/fesky
 twitter: https://twitter.com/feisky
-
 
 
 feiskyer 倪朋飞
@@ -229,12 +275,11 @@ At work, I have been working on browser engines for more than 9 years, mainly in
 
 
 
-
+xiemengjun@gmail.com 
 astaxie
 Gopher
 
- 	Shanghai, China 
- 	xiemengjun@gmail.com 
+ 	Shanghai, China  	
  	http://beego.me
 
 
